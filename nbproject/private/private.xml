@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VGestionSucursales.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VTiendas.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/baseDatos/DAOTiendas.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VCitasCliente.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/baseDatos/DAOSucursales.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VPrincipal.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VComprar.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VTareasV.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/baseDatos/DAOTareas.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/baseDatos/DAOUsuarios.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VCitasP.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VProductosTienda.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VUsuarios.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/baseDatos/DAOCitas.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VParticiparEvento.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/aplicacion/GestionSucursales.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/aplicacion/FachadaAplicacion.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/aplicacion/GestionTiendas.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VNuevaTareaV.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/aplicacion/GestionUsuarios.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/baseDatos/DAOEventos.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/Fondo.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/baseDatos/FachadaBaseDatos.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VInicio.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/aplicacion/GestionEventos.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VAutentificacion.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/gui/VAviso.java</file>
+            <file>file:/home/alumnogreibd/BDII/RefugioAnimales/src/aplicacion/Producto.java</file>
+        </group>
+    </open-files>
+</project-private>
